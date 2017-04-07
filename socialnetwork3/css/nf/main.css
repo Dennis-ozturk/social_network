@@ -1,0 +1,20 @@
+.middle3 {
+	height: 100%;
+	width: 990px;
+	margin: 0 auto;
+	background: white;
+	color: #000;
+}
+
+*{
+	font-weight: 300;
+}
+
+.note{
+	width: 100%;
+	padding: 20px;
+	background: #4aaee7;
+	color: white;
+	margin-bottom: 10px;
+	
+}
